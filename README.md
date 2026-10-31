@@ -16,16 +16,16 @@
 
 ## 研究效果：角色特征迁移到开放域主体
 
-以下是 Endless-XXX 已公开的**历史输入/输出**，涵盖人物、动物与物品。它们不是本次 Endlexx 的生成结果，也不是新版本效果承诺。
+以下是 Endless-XXX 已公开的 **human1、jian1、jian2 历史输入/输出**。它们不是本次 Endlexx 的生成结果，也不是新版本效果承诺。
 
 <table>
-  <tr><th>主体</th><th>输入</th><th>历史研究输出</th></tr>
-  <tr><td>人物</td><td><img src="docs/media/research/human2.png" width="220" alt="人物输入"></td><td><img src="docs/media/research/human2_result.png" width="220" alt="人物角色迁移历史结果"></td></tr>
-  <tr><td>动物</td><td><img src="docs/media/research/cat.png" width="220" alt="猫输入"></td><td><img src="docs/media/research/cat_result.png" width="220" alt="猫的角色迁移历史结果"></td></tr>
-  <tr><td>物品</td><td><img src="docs/media/research/cup.jpg" width="220" alt="杯子输入"></td><td><img src="docs/media/research/cup_result.png" width="220" alt="杯子的角色迁移历史结果"></td></tr>
+  <tr><th>样例</th><th>输入</th><th>历史研究输出</th></tr>
+  <tr><td>human1</td><td><img src="https://raw.githubusercontent.com/ZerothXX/Endless-XXX/6bd78d48c4c99bef0be3ecf4f71e8536349c2acb/input/human1.png" width="220" alt="human1 输入图"></td><td><img src="https://raw.githubusercontent.com/ZerothXX/Endless-XXX/6bd78d48c4c99bef0be3ecf4f71e8536349c2acb/output/result/human1_result.png" width="220" alt="human1 角色迁移历史结果"></td></tr>
+  <tr><td>jian1</td><td><img src="https://raw.githubusercontent.com/ZerothXX/Endless-XXX/6bd78d48c4c99bef0be3ecf4f71e8536349c2acb/input/jian1.png" width="220" alt="jian1 输入图"></td><td><img src="https://raw.githubusercontent.com/ZerothXX/Endless-XXX/6bd78d48c4c99bef0be3ecf4f71e8536349c2acb/output/result/jian1_result.png" width="220" alt="jian1 角色迁移历史结果"></td></tr>
+  <tr><td>jian2</td><td><img src="https://raw.githubusercontent.com/ZerothXX/Endless-XXX/6bd78d48c4c99bef0be3ecf4f71e8536349c2acb/input/jian2.png" width="220" alt="jian2 输入图"></td><td><img src="https://raw.githubusercontent.com/ZerothXX/Endless-XXX/6bd78d48c4c99bef0be3ecf4f71e8536349c2acb/output/result/jian2_result.png" width="220" alt="jian2 角色迁移历史结果"></td></tr>
 </table>
 
-来源固定于研究仓库提交 [`6bd78d4`](https://github.com/ZerothXX/Endless-XXX/tree/6bd78d48c4c99bef0be3ecf4f71e8536349c2acb)，图片按原字节保存；原作者、单图许可和完整生成参数未记录。可见效果与待解决问题、文件 SHA256 和复现要求见 [研究结果与局限](docs/research/results.md) / [素材清单](docs/media/research/manifest.json)。
+来源固定于研究仓库提交 [`6bd78d4`](https://github.com/ZerothXX/Endless-XXX/tree/6bd78d48c4c99bef0be3ecf4f71e8536349c2acb)，以上图片直接引用该提交中的原始文件；原作者、单图许可和完整生成参数未记录。更多历史结果与待解决问题、仓库内展示素材的 SHA256 和复现要求见 [研究结果与局限](docs/research/results.md) / [素材清单](docs/media/research/manifest.json)。
 
 ## 方法与能力边界
 
