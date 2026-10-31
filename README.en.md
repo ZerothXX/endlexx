@@ -11,6 +11,7 @@ The main entry point for a character creation and visual transfer project, conne
 |---|---|---|
 | **[Endlexx](https://github.com/ZerothXX/Endlexx)** | Main project, agent workbench, character knowledge/assets, tool orchestration and application evaluation | Workbench setup below |
 | **[Endless-XXX](https://github.com/ZerothXX/Endless-XXX)** | Character LoRA training, visual transfer across open-domain subjects, research experiments and research UI | Its bilingual README for training/research |
+| **[Endless-XXX · FLUX.2 research](https://github.com/ZerothXX/Endless-XXX/tree/flux2-research)** | FLUX.2 fixed multi-image references, character visual transfer and method exploration | Brief method introduction (experimental) |
 
 The repositories remain separate. Endlexx presents the research and application together; Endless-XXX owns the training core. The application ships a hash-pinned inference snapshot. Linked documentation does not imply identical code versions.
 

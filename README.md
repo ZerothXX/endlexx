@@ -11,6 +11,7 @@
 |---|---|---|
 | **[Endlexx](https://github.com/ZerothXX/Endlexx)** | 主项目、Agent 工作台、角色知识与资产、工具编排和应用验收 | 使用工作台：见下方快速开始 |
 | **[Endless-XXX](https://github.com/ZerothXX/Endless-XXX)** | 角色 LoRA 训练、开放域主体视觉迁移、研究实验与研究网页 | 训练和研究：见其双语 README |
+| **[Endless-XXX · FLUX.2 研究](https://github.com/ZerothXX/Endless-XXX/tree/flux2-research)** | FLUX.2 固定多图参考、角色视觉迁移与方法探索 | 简要方法介绍（实验中） |
 
 两者保留独立仓库。Endlexx 展示研究与应用全貌；训练核心继续在 Endless-XXX 维护，应用随包提供经哈希固定的推理快照。文档关联不等于两个代码版本完全同步。
 
